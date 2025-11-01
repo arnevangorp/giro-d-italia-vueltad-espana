@@ -1,0 +1,481 @@
+Year,Stage Number,Stage Title,Date,Departure,Arrival,Winner
+2003,1,2003 58th Vuelta a España (GT),06 September 2003,Gijón,Gijón,Azevedo
+2003,2,2003 58th Vuelta a España (GT),07 September 2003,Gijón,Cangas de Onís,Pérez Rodríguez
+2003,3,2003 58th Vuelta a España (GT),08 September 2003,Cangas de Onís,Santander,Petacchi
+2003,4,2003 58th Vuelta a España (GT),09 September 2003,Santander,Burgos,Etxebarria
+2003,5,2003 58th Vuelta a España (GT),10 September 2003,Soria,Zaragoza,Petacchi
+2003,6,2003 58th Vuelta a España (GT),11 September 2003,Zaragoza,Zaragoza,Nozal
+2003,7,2003 58th Vuelta a España (GT),12 September 2003,Huesca,Cauterets. Cam Basque,Rasmussen
+2003,8,2003 58th Vuelta a España (GT),13 September 2003,Cauterets,Pla de Beret,Rodríguez
+2003,9,2003 58th Vuelta a España (GT),14 September 2003,Viella,Port d'Envalira,Valverde
+2003,10,2003 58th Vuelta a España (GT),15 September 2003,Andorra,Sabadell,Zabel
+2003,11,2003 58th Vuelta a España (GT),16 September 2003,Utiel,Cuenca,Zabel
+2003,12,2003 58th Vuelta a España (GT),17 September 2003,Cuenca,Albacete,Petacchi
+2003,13,2003 58th Vuelta a España (GT),18 September 2003,Albacete,Albacete,Nozal
+2003,14,2003 58th Vuelta a España (GT),19 September 2003,Albacete,Valdepeñas,Petacchi
+2003,15,2003 58th Vuelta a España (GT),20 September 2003,Valdepeñas,La Pandera,Valverde
+2003,16,2003 58th Vuelta a España (GT),21 September 2003,Jaén,Sierra Nevada,Cárdenas
+2003,17,2003 58th Vuelta a España (GT),22 September 2003,Granada,Córdoba,Millar
+2003,18,2003 58th Vuelta a España (GT),23 September 2003,Las Rozas,Las Rozas,Díaz
+2003,19,2003 58th Vuelta a España (GT),24 September 2003,Alcobendas,Collado Villalba,Simeoni
+2003,20,2003 58th Vuelta a España (GT),25 September 2003,San Lorenzo de El Escorial,Alto de Abantos,Heras
+2003,21,2003 58th Vuelta a España (GT),26 September 2003,Madrid,Madrid,Petacchi
+2004,1,2004 59th Vuelta a España (GT),04 September 2004,León,León,Beltrán
+2004,2,2004 59th Vuelta a España (GT),05 September 2004,León,Burgos,Petacchi
+2004,3,2004 59th Vuelta a España (GT),06 September 2004,Burgos,Soria,Valverde
+2004,4,2004 59th Vuelta a España (GT),07 September 2004,Soria,Zaragoza,Petacchi
+2004,5,2004 59th Vuelta a España (GT),08 September 2004,Zaragoza,Morella,Menchov
+2004,6,2004 59th Vuelta a España (GT),09 September 2004,Benicarló,Castellón de la Plana,Freire
+2004,7,2004 59th Vuelta a España (GT),10 September 2004,Castellón de la Plana,Valencia,Petacchi
+2004,8,2004 59th Vuelta a España (GT),11 September 2004,Almusafes,Almusafes,Hamilton
+2004,9,2004 59th Vuelta a España (GT),12 September 2004,Játiva,Alto de Aitana,Piepoli
+2004,10,2004 59th Vuelta a España (GT),13 September 2004,Alcoy,Xorret de Catí,Jiménez
+2004,11,2004 59th Vuelta a España (GT),14 September 2004,San Vicente del Raspeig,Caravaca de la Cruz,Zabriskie
+2004,12,2004 59th Vuelta a España (GT),16 September 2004,Almería,Observatorio de Calar Alto,Heras
+2004,13,2004 59th Vuelta a España (GT),17 September 2004,El Ejido,Málaga,Petacchi
+2004,14,2004 59th Vuelta a España (GT),18 September 2004,Málaga,Granada,Pérez
+2004,15,2004 59th Vuelta a España (GT),19 September 2004,Granada,Sierra Nevada,Pérez
+2004,16,2004 59th Vuelta a España (GT),21 September 2004,Olivenza,Cáceres,Juliá
+2004,17,2004 59th Vuelta a España (GT),22 September 2004,Plasencia,La Covatilla,Cárdenas
+2004,18,2004 59th Vuelta a España (GT),23 September 2004,Béjar,Ávila,Pascual Rodríguez
+2004,19,2004 59th Vuelta a España (GT),24 September 2004,Ávila,Collado Villalba,Zaballa
+2004,20,2004 59th Vuelta a España (GT),25 September 2004,Alcobendas,Puerto de Navacerrada,Gutiérrez
+2004,21,2004 59th Vuelta a España (GT),26 September 2004,Madrid,Madrid,Pérez
+2005,1,2005 60th Vuelta a España (2.PT),27 August 2005,Granada,Granada,Menchov
+2005,2,2005 60th Vuelta a España (2.PT),28 August 2005,Granada,Córdoba,Bertagnolli
+2005,3,2005 60th Vuelta a España (2.PT),29 August 2005,Cordoba,Puertollano,Petacchi
+2005,4,2005 60th Vuelta a España (2.PT),30 August 2005,Ciudad Real,Argamasilla de Alba,Petacchi
+2005,5,2005 60th Vuelta a España (2.PT),31 August 2005,Alcazar de San Juan,Cuenca,Hushovd
+2005,6,2005 60th Vuelta a España (2.PT),01 September 2005,Cuenca,Valdelinares,Heras
+2005,7,2005 60th Vuelta a España (2.PT),02 September 2005,Teruel,Vinaros,van Heeswijk
+2005,8,2005 60th Vuelta a España (2.PT),03 September 2005,Tarragona,Lloret de Mar,Petacchi
+2005,9,2005 60th Vuelta a España (2.PT),04 September 2005,Lloret de Mar,Lloret de Mar,Menchov
+2005,10,2005 60th Vuelta a España (2.PT),05 September 2005,La Vall d'En Bas (Girona),Ordino Arcalis (Andorra),Mancebo
+2005,11,2005 60th Vuelta a España (2.PT),06 September 2005,Andorra,Cerler,Laiseka
+2005,12,2005 60th Vuelta a España (2.PT),08 September 2005,Logroño,Burgos,Petacchi
+2005,13,2005 60th Vuelta a España (2.PT),09 September 2005,Burgos,La Bien Aparecida,Sánchez
+2005,14,2005 60th Vuelta a España (2.PT),10 September 2005,Nestlé La Penilla,Lagos de Covadonga,Jiménez
+2005,15,2005 60th Vuelta a España (2.PT),11 September 2005,Cangas de Onis,Valgrande Pajares,Heras
+2005,16,2005 60th Vuelta a España (2.PT),13 September 2005,Leon,Valladolid,Bettini
+2005,17,2005 60th Vuelta a España (2.PT),14 September 2005,El Espinar,La Granja de San Ildefonso,García Quesada
+2005,18,2005 60th Vuelta a España (2.PT),15 September 2005,Avila,Avila,Sørensen
+2005,19,2005 60th Vuelta a España (2.PT),16 September 2005,San Martin de Valdeiglesias,Alcobendas,Haussler
+2005,20,2005 60th Vuelta a España (2.PT),17 September 2005,Guadalajara,Alcala de Henares,Plaza
+2005,21,2005 60th Vuelta a España (2.PT),18 September 2005,Madrid,Madrid,Petacchi
+2006,1,2006 61st Vuelta a España (2.PT),26 August 2006,Málaga,Málaga,Sastre
+2006,2,2006 61st Vuelta a España (2.PT),27 August 2006,Málaga,Córdoba,Bettini
+2006,3,2006 61st Vuelta a España (2.PT),28 August 2006,Córdoba,Almendralejo,Ventoso
+2006,4,2006 61st Vuelta a España (2.PT),29 August 2006,Almendralejo,Cáceres,Zabel
+2006,5,2006 61st Vuelta a España (2.PT),30 August 2006,Plasencia,Estación de Esquí La Covatilla (Béjar),Di Luca
+2006,6,2006 61st Vuelta a España (2.PT),31 August 2006,Zamora,León,Hushovd
+2006,7,2006 61st Vuelta a España (2.PT),01 September 2006,León,Alto de El Morredero (Ponferrada),Valverde
+2006,8,2006 61st Vuelta a España (2.PT),02 September 2006,Ponferrada,Lugo,Vinokourov
+2006,9,2006 61st Vuelta a España (2.PT),03 September 2006,A Fonsagrada,Alto de La Cobertoria,Vinokourov
+2006,10,2006 61st Vuelta a España (2.PT),05 September 2006,Avilés,Museo de Altamira (Santillana del Mar),Paulinho
+2006,11,2006 61st Vuelta a España (2.PT),06 September 2006,Torrelavega (Oscar Freire Velodrome),Burgos,Martínez
+2006,12,2006 61st Vuelta a España (2.PT),07 September 2006,Aranda de Duero,Guadalajara,Paolini
+2006,13,2006 61st Vuelta a España (2.PT),08 September 2006,Guadalajara,Cuenca,Sánchez
+2006,14,2006 61st Vuelta a España (2.PT),09 September 2006,Cuenca,Cuenca,Millar
+2006,15,2006 61st Vuelta a España (2.PT),10 September 2006,Motilla del Palancar,Ford factory (Almussafes),Förster
+2006,16,2006 61st Vuelta a España (2.PT),12 September 2006,Almería,Astronomical Observatory of Calar Alto,Antón
+2006,17,2006 61st Vuelta a España (2.PT),13 September 2006,Adra,Granada,Danielson
+2006,18,2006 61st Vuelta a España (2.PT),14 September 2006,Granada,Sierra de la Pandera,Kashechkin
+2006,19,2006 61st Vuelta a España (2.PT),15 September 2006,Jaén,Ciudad Real,Arrieta
+2006,20,2006 61st Vuelta a España (2.PT),16 September 2006,Rivas Vaciamadrid,Rivas Vaciamadrid,Vinokourov
+2006,21,2006 61st Vuelta a España (2.PT),17 September 2006,Madrid,Madrid,Zabel
+2007,1,2007 62nd Vuelta a España (2.PT),01 September 2007,Vigo,Vigo,Bennati
+2007,2,2007 62nd Vuelta a España (2.PT),02 September 2007,Allariz,Santiago de Compostela,Freire
+2007,3,2007 62nd Vuelta a España (2.PT),03 September 2007,Viveiro,Luarca,Bettini
+2007,4,2007 62nd Vuelta a España (2.PT),04 September 2007,Langreo,Lagos de Covadonga,Efimkin
+2007,5,2007 62nd Vuelta a España (2.PT),05 September 2007,Cangas de Onís,Reinosa,Freire
+2007,6,2007 62nd Vuelta a España (2.PT),06 September 2007,Reinosa,Logroño,Freire
+2007,7,2007 62nd Vuelta a España (2.PT),07 September 2007,Calahorra,Zaragoza,Zabel
+2007,8,2007 62nd Vuelta a España (2.PT),08 September 2007,D. O. Cariñena,Zaragoza,Grabsch
+2007,9,2007 62nd Vuelta a España (2.PT),09 September 2007,Huesca,Estación de esquí Cerler,Piepoli
+2007,10,2007 62nd Vuelta a España (2.PT),10 September 2007,Benasque,Estación de esquí de Ordino Arcalís,Menchov
+2007,11,2007 62nd Vuelta a España (2.PT),12 September 2007,Castellón,Algemesí,Petacchi
+2007,12,2007 62nd Vuelta a España (2.PT),13 September 2007,Algemesí,Hellín,Petacchi
+2007,13,2007 62nd Vuelta a España (2.PT),14 September 2007,Hellin,Torre-Pacheco,Klier
+2007,14,2007 62nd Vuelta a España (2.PT),15 September 2007,Puerto Lumbreras,Villacarrillo,McCartney
+2007,15,2007 62nd Vuelta a España (2.PT),16 September 2007,Villacarrillo,Granada,Sánchez
+2007,16,2007 62nd Vuelta a España (2.PT),18 September 2007,Jaen,Puertollano,Duque
+2007,17,2007 62nd Vuelta a España (2.PT),19 September 2007,Ciudad Real,Talavera de la Reina,Bennati
+2007,18,2007 62nd Vuelta a España (2.PT),20 September 2007,Talavera de la Reina,Ávila,Pérez Rodríguez
+2007,19,2007 62nd Vuelta a España (2.PT),21 September 2007,Ávila,Alto de Abantos,Sánchez
+2007,20,2007 62nd Vuelta a España (2.PT),22 September 2007,Villalba,Villalba,Sánchez
+2007,21,2007 62nd Vuelta a España (2.PT),23 September 2007,Rivas Vaciamadrid,Madrid,Bennati
+2008,1,2008 63rd Vuelta a España (2.HC),30 August 2008,Granada,Granada,Franzoi
+2008,2,2008 63rd Vuelta a España (2.HC),31 August 2008,Granada,Jaén,Valverde
+2008,3,2008 63rd Vuelta a España (2.HC),01 September 2008,Jaén,Córdoba,Boonen
+2008,4,2008 63rd Vuelta a España (2.HC),02 September 2008,Córdoba,Puertollano,Bennati
+2008,5,2008 63rd Vuelta a España (2.HC),03 September 2008,Ciudad Real,Ciudad Real,Leipheimer
+2008,6,2008 63rd Vuelta a España (2.HC),04 September 2008,Ciudad Real,Toledo,Bettini
+2008,7,2008 63rd Vuelta a España (2.HC),06 September 2008,Barbastro,Andorra (Naturlandia-La Rabassa),Ballan
+2008,8,2008 63rd Vuelta a España (2.HC),07 September 2008,Andorra,Pla de Beret,Moncoutié
+2008,9,2008 63rd Vuelta a España (2.HC),08 September 2008,Vielha e Mijaran,Sabiñánigo,Van Avermaet
+2008,10,2008 63rd Vuelta a España (2.HC),09 September 2008,Sabiñánigo,Zaragoza,Hinault
+2008,11,2008 63rd Vuelta a España (2.HC),10 September 2008,Calahorra,Burgos,Freire
+2008,12,2008 63rd Vuelta a España (2.HC),11 September 2008,Burgos,Suances,Bettini
+2008,13,2008 63rd Vuelta a España (2.HC),13 September 2008,San Vicente de la Barquera,Alto de l'Angliru,Contador
+2008,14,2008 63rd Vuelta a España (2.HC),14 September 2008,Oviedo,Fuentes de Invierno,Contador
+2008,15,2008 63rd Vuelta a España (2.HC),15 September 2008,Cudillero,Ponferrada,García Dapena
+2008,16,2008 63rd Vuelta a España (2.HC),16 September 2008,Ponferrada,Zamora,Boonen
+2008,17,2008 63rd Vuelta a España (2.HC),17 September 2008,Zamora,Valladolid,Weylandt
+2008,18,2008 63rd Vuelta a España (2.HC),18 September 2008,Valladolid,Las Rozas,Erviti
+2008,19,2008 63rd Vuelta a España (2.HC),19 September 2008,Las Rozas,Segovia,Arroyo
+2008,20,2008 63rd Vuelta a España (2.HC),20 September 2008,La Granja de San Ildefonso,Alto de Navacerrada,Leipheimer
+2008,21,2008 63rd Vuelta a España (2.HC),21 September 2008,San Sebastián de los Reyes,Madrid,Breschel
+2009,1,2009 64th Vuelta a España (2.HC),29 August 2009,Assen,Assen,Cancellara
+2009,2,2009 64th Vuelta a España (2.HC),30 August 2009,Assen,Emmen,Ciolek
+2009,3,2009 64th Vuelta a España (2.HC),31 August 2009,Zutphen,Venlo,Henderson
+2009,4,2009 64th Vuelta a España (2.HC),01 September 2009,Venlo,Liège,Greipel
+2009,5,2009 64th Vuelta a España (2.HC),03 September 2009,Tarragona,Vinaròs,Greipel
+2009,6,2009 64th Vuelta a España (2.HC),04 September 2009,Xàtiva,Xàtiva,Božič
+2009,7,2009 64th Vuelta a España (2.HC),05 September 2009,Valencia,Valencia,Cancellara
+2009,8,2009 64th Vuelta a España (2.HC),06 September 2009,Alzira,Alto de Aitana,Cunego
+2009,9,2009 64th Vuelta a España (2.HC),07 September 2009,Alcoi,Xorret de Catí,César Veloso
+2009,10,2009 64th Vuelta a España (2.HC),08 September 2009,Alicante,Murcia,Gerrans
+2009,11,2009 64th Vuelta a España (2.HC),09 September 2009,Murcia,Caravaca de la Cruz,Farrar
+2009,12,2009 64th Vuelta a España (2.HC),11 September 2009,Almería,Alto de Velefique,Hesjedal
+2009,13,2009 64th Vuelta a España (2.HC),12 September 2009,Bejar,Alto de Sierra Nevada,Moncoutié
+2009,14,2009 64th Vuelta a España (2.HC),13 September 2009,Granada,La Pandera,Cunego
+2009,15,2009 64th Vuelta a España (2.HC),14 September 2009,Jaén,Córdoba,Boom
+2009,16,2009 64th Vuelta a España (2.HC),15 September 2009,Córdoba,Puertollano,Greipel
+2009,17,2009 64th Vuelta a España (2.HC),16 September 2009,Ciudad Real,Talavera de la Reina,Roux
+2009,18,2009 64th Vuelta a España (2.HC),17 September 2009,Talavera de la Reina,Ávila,Deignan
+2009,19,2009 64th Vuelta a España (2.HC),18 September 2009,Ávila,Segovia,Cobo
+2009,20,2009 64th Vuelta a España (2.HC),19 September 2009,Toledo,Toledo,Millar
+2009,21,2009 64th Vuelta a España (2.HC),20 September 2009,Rivas,Madrid,Greipel
+2010,1,2010 65th Vuelta a España (HIS),28 August 2010,Sevilla,Sevilla,Goss
+2010,2,2010 65th Vuelta a España (HIS),29 August 2010,Alcalá de Guadaíra,Marbella,Hutarovich
+2010,3,2010 65th Vuelta a España (HIS),30 August 2010,Marbella,Málaga,Gilbert
+2010,4,2010 65th Vuelta a España (HIS),31 August 2010,Málaga,Valdepeñas de Jaén,Antón
+2010,5,2010 65th Vuelta a España (HIS),01 September 2010,Guadix,Lorca,Farrar
+2010,6,2010 65th Vuelta a España (HIS),02 September 2010,Caravaca de Cruz,Murcia,Hushovd
+2010,7,2010 65th Vuelta a España (HIS),03 September 2010,Murcia,Orihuela,Petacchi
+2010,8,2010 65th Vuelta a España (HIS),04 September 2010,Villena,Xorret del Catí,Moncoutié
+2010,9,2010 65th Vuelta a España (HIS),05 September 2010,Calpe,Alcoi,López
+2010,10,2010 65th Vuelta a España (HIS),07 September 2010,Tarragona,Vilanova i la Geltrú,Erviti
+2010,11,2010 65th Vuelta a España (HIS),08 September 2010,Vilanova i la Geltrú,Andorra. Vallnord Sector Pal,Antón
+2010,12,2010 65th Vuelta a España (HIS),09 September 2010,Andorra la Vella,Lleida,Cavendish
+2010,13,2010 65th Vuelta a España (HIS),10 September 2010,Rincón de Soto,Burgos,Cavendish
+2010,14,2010 65th Vuelta a España (HIS),11 September 2010,Burgos,Peña Cabarga,Rodríguez
+2010,15,2010 65th Vuelta a España (HIS),12 September 2010,Solares,Lagos de Covadonga,Barredo
+2010,16,2010 65th Vuelta a España (HIS),13 September 2010,Gijón,Alto de Cotobello,Nieve
+2010,17,2010 65th Vuelta a España (HIS),15 September 2010,Peñafiel,Peñafiel,Velits
+2010,18,2010 65th Vuelta a España (HIS),16 September 2010,Valladolid,Salamanca,Cavendish
+2010,19,2010 65th Vuelta a España (HIS),17 September 2010,Piedrahíta,Toledo,Gilbert
+2010,20,2010 65th Vuelta a España (HIS),18 September 2010,San Martín de Valdeiglesias,Bola del Mundo,Mosquera
+2010,21,2010 65th Vuelta a España (HIS),19 September 2010,San Sebastián de los Reyes,Madrid,Farrar
+2011,1,2011 66th Vuelta a España (WT),20 August 2011,Benidorm,Benidorm,Monfort
+2011,2,2011 66th Vuelta a España (WT),21 August 2011,La Nucía,Playas de Orihuela,Sutton
+2011,3,2011 66th Vuelta a España (WT),22 August 2011,Petrer,Totana,Lastras
+2011,4,2011 66th Vuelta a España (WT),23 August 2011,Baza,Sierra Nevada,Moreno
+2011,5,2011 66th Vuelta a España (WT),24 August 2011,Sierra Nevada,Valdepeñas de Jaén,Rodríguez
+2011,6,2011 66th Vuelta a España (WT),25 August 2011,Úbeda,Córdoba,Sagan
+2011,7,2011 66th Vuelta a España (WT),26 August 2011,Almadén,Talavera de la Reina,Kittel
+2011,8,2011 66th Vuelta a España (WT),27 August 2011,Talavera de la Reina,San Lorenzo de El Escorial,Rodríguez
+2011,9,2011 66th Vuelta a España (WT),28 August 2011,Villacastín,Sierra de Béjar. La Covatilla,Martin
+2011,10,2011 66th Vuelta a España (WT),29 August 2011,Salamanca,Salamanca,Martin
+2011,11,2011 66th Vuelta a España (WT),31 August 2011,Verín,Estación de Montaña Manzaneda,Moncoutié
+2011,12,2011 66th Vuelta a España (WT),01 September 2011,Ponteareas,Pontevedra,Sagan
+2011,13,2011 66th Vuelta a España (WT),02 September 2011,Sarria,Ponferrada,Albasini
+2011,14,2011 66th Vuelta a España (WT),03 September 2011,Astorga,La Farrapona. Lagos De Somiedo,Taaramäe
+2011,15,2011 66th Vuelta a España (WT),04 September 2011,Avilés,Anglirú,Cobo
+2011,16,2011 66th Vuelta a España (WT),06 September 2011,Villa Romana La Olmeda (Palencia),Haro,Haedo
+2011,17,2011 66th Vuelta a España (WT),07 September 2011,Faustino V,Peña Cabarga,Froome
+2011,18,2011 66th Vuelta a España (WT),08 September 2011,Solares,Noja,Gavazzi
+2011,19,2011 66th Vuelta a España (WT),09 September 2011,Noja,Bilbao,Antón
+2011,20,2011 66th Vuelta a España (WT),10 September 2011,Bilbao,Vitoria,Bennati
+2011,21,2011 66th Vuelta a España (WT),11 September 2011,Circuito del Jarama,Madrid,Sagan
+2012,1,2012 67th Vuelta a España (WT),18 August 2012,Pamplona,Pamplona,Moreno
+2012,2,2012 67th Vuelta a España (WT),19 August 2012,Pamplona,Viana,Degenkolb
+2012,3,2012 67th Vuelta a España (WT),20 August 2012,Faustino V,Eibar (Arrate),Valverde
+2012,4,2012 67th Vuelta a España (WT),21 August 2012,Barakaldo,Estación de Valdezcaray,Clarke
+2012,5,2012 67th Vuelta a España (WT),22 August 2012,Logroño,Logroño,Degenkolb
+2012,6,2012 67th Vuelta a España (WT),23 August 2012,Tarazona,Jaca (Fuerte del Rapitán),Rodríguez
+2012,7,2012 67th Vuelta a España (WT),24 August 2012,Huesca,Alcañiz. MotorLand Aragón,Degenkolb
+2012,8,2012 67th Vuelta a España (WT),25 August 2012,Lleida,Andorra. Collada de la Gallina,Valverde
+2012,9,2012 67th Vuelta a España (WT),26 August 2012,Andorra,Barcelona,Gilbert
+2012,10,2012 67th Vuelta a España (WT),28 August 2012,Ponteareas,Sanxenxo,Degenkolb
+2012,11,2012 67th Vuelta a España (WT),29 August 2012,Cambados,Pontevedra,Kessiakoff
+2012,12,2012 67th Vuelta a España (WT),30 August 2012,Vilagarcía de Arousa,Dumbría. Mirador de Ézaro,Rodríguez
+2012,13,2012 67th Vuelta a España (WT),31 August 2012,Santiago de Compostela,Ferrol,Cummings
+2012,14,2012 67th Vuelta a España (WT),01 September 2012,Palas de Rei,Puerto de Ancares,Rodríguez
+2012,15,2012 67th Vuelta a España (WT),02 September 2012,La Robla,Lagos de Covadonga,Piedra
+2012,16,2012 67th Vuelta a España (WT),03 September 2012,Gijón,Valgrande-Pajares (Cuitu Negru),Cataldo
+2012,17,2012 67th Vuelta a España (WT),05 September 2012,Santander,Fuente Dé,Contador
+2012,18,2012 67th Vuelta a España (WT),06 September 2012,Aguilar de Campoo,Valladolid,Bennati
+2012,19,2012 67th Vuelta a España (WT),07 September 2012,Peñafiel,La Lastrilla,Gilbert
+2012,20,2012 67th Vuelta a España (WT),08 September 2012,La Faisanera Golf. Segovia 21,Bola del Mundo,Menchov
+2012,21,2012 67th Vuelta a España (WT),09 September 2012,Cercedilla,Madrid,Degenkolb
+2013,1,2013 68th Vuelta a España (WT),24 August 2013,Vilanova de Arousa,Sanxenxo,Fuglsang
+2013,2,2013 68th Vuelta a España (WT),25 August 2013,Pontevedra,Baiona. Alto do Monte da Groba,Roche
+2013,3,2013 68th Vuelta a España (WT),26 August 2013,Vigo,Mirador de Lobeira / Vilagarcía de Arousa,Horner
+2013,4,2013 68th Vuelta a España (WT),27 August 2013,Lalín,Fisterra,Moreno
+2013,5,2013 68th Vuelta a España (WT),28 August 2013,Sober,Lago de Sanabria,Matthews
+2013,6,2013 68th Vuelta a España (WT),29 August 2013,Guijuelo,Cáceres,Mørkøv
+2013,7,2013 68th Vuelta a España (WT),30 August 2013,Almendralejo,Mairena del Aljarafe,Štybar
+2013,8,2013 68th Vuelta a España (WT),31 August 2013,Jerez de la Frontera,Estepona. Alto de Peñas Blancas,König
+2013,9,2013 68th Vuelta a España (WT),01 September 2013,Antequera,Valdepeñas de Jaén,Moreno
+2013,10,2013 68th Vuelta a España (WT),02 September 2013,Torredelcampo,Güéjar Sierra. Alto de Hazallanas,Horner
+2013,11,2013 68th Vuelta a España (WT),04 September 2013,Tarazona,Tarazona,Cancellara
+2013,12,2013 68th Vuelta a España (WT),05 September 2013,Maella,Tarragona,Gilbert
+2013,13,2013 68th Vuelta a España (WT),06 September 2013,Valls,Castelldefels,Barguil
+2013,14,2013 68th Vuelta a España (WT),07 September 2013,Bagà,Collada de la Gallina,Ratto
+2013,15,2013 68th Vuelta a España (WT),08 September 2013,Andorra,Peyragudes,Geniez
+2013,16,2013 68th Vuelta a España (WT),09 September 2013,Graus,Sallent de Gállego. Aramón Formigal,Barguil
+2013,17,2013 68th Vuelta a España (WT),11 September 2013,Calahorra,Burgos,Mollema
+2013,18,2013 68th Vuelta a España (WT),12 September 2013,Burgos,Peña Cabarga,Kiryienka
+2013,19,2013 68th Vuelta a España (WT),13 September 2013,San Vicente de la Barquera,Alto del Naranco,Rodríguez
+2013,20,2013 68th Vuelta a España (WT),14 September 2013,Avilés,Angliru,Elissonde
+2013,21,2013 68th Vuelta a España (WT),15 September 2013,Leganés,Madrid,Matthews
+2014,1,2014 69th Vuelta a España (2.UWT),23 August 2014,Jerez de la Frontera,Jerez de la Frontera,Erviti
+2014,2,2014 69th Vuelta a España (2.UWT),24 August 2014,Algeciras,San Fernando,Bouhanni
+2014,3,2014 69th Vuelta a España (2.UWT),25 August 2014,Cádiz,Arcos de la Frontera,Matthews
+2014,4,2014 69th Vuelta a España (2.UWT),26 August 2014,Mairena del Alcor (Sevilla),Córdoba,Degenkolb
+2014,5,2014 69th Vuelta a España (2.UWT),27 August 2014,Priego de Córdoba,Ronda,Degenkolb
+2014,6,2014 69th Vuelta a España (2.UWT),28 August 2014,Benalmádena,La Zubia (Cumbres Verdes),Valverde
+2014,7,2014 69th Vuelta a España (2.UWT),29 August 2014,Alhendín,Alcaudete,De Marchi
+2014,8,2014 69th Vuelta a España (2.UWT),30 August 2014,Baeza,Albacete,Bouhanni
+2014,9,2014 69th Vuelta a España (2.UWT),31 August 2014,Carboneras de Guadazaón,Aramón Valdelinares,Anacona
+2014,10,2014 69th Vuelta a España (2.UWT),02 September 2014,Real Monasterio de Santa María de Veruela,Borja,Martin
+2014,11,2014 69th Vuelta a España (2.UWT),03 September 2014,Pamplona,Santuario de San Miguel de Aralar,Aru
+2014,12,2014 69th Vuelta a España (2.UWT),04 September 2014,Logroño,Logroño,Degenkolb
+2014,13,2014 69th Vuelta a España (2.UWT),05 September 2014,Belorado,Obregón (Parque de Cabárceno),Navarro
+2014,14,2014 69th Vuelta a España (2.UWT),06 September 2014,Santander,La Camperona,Hesjedal
+2014,15,2014 69th Vuelta a España (2.UWT),07 September 2014,Oviedo,Lagos de Covadonga,Niemiec
+2014,16,2014 69th Vuelta a España (2.UWT),08 September 2014,San Martín del Rey Aurelio,Lagos de Somiedo (La Farrapona),Contador
+2014,17,2014 69th Vuelta a España (2.UWT),10 September 2014,Ortigueira,A Coruña,Degenkolb
+2014,18,2014 69th Vuelta a España (2.UWT),11 September 2014,A Estrada,Monte Castrove en Meis,Aru
+2014,19,2014 69th Vuelta a España (2.UWT),12 September 2014,Salvaterra de Miño,Cangas de Morrazo,Hansen
+2014,20,2014 69th Vuelta a España (2.UWT),13 September 2014,Santa Estevo de Ribas do Sil,Puerto de Ancares,Contador
+2014,21,2014 69th Vuelta a España (2.UWT),14 September 2014,Santiago de Compostela,Santiago de Compostela,Malori
+2015,1,2015 70th Vuelta a España (2.UWT),22 August 2015,Puerto Banús,Marbella,Sánchez
+2015,2,2015 70th Vuelta a España (2.UWT),23 August 2015,Alhaurín de la Torre,Caminito del Rey,Chaves
+2015,3,2015 70th Vuelta a España (2.UWT),24 August 2015,Mijas,Málaga,Sagan
+2015,4,2015 70th Vuelta a España (2.UWT),25 August 2015,Estepona,Vejer de la Frontera,Valverde
+2015,5,2015 70th Vuelta a España (2.UWT),26 August 2015,Rota,Alcalá de Guadaíra,Ewan
+2015,6,2015 70th Vuelta a España (2.UWT),27 August 2015,Córdoba,Sierra de Cazorla,Chaves
+2015,7,2015 70th Vuelta a España (2.UWT),28 August 2015,Jódar,La Alpujarra (Capileira),Lindeman
+2015,8,2015 70th Vuelta a España (2.UWT),29 August 2015,Puebla de Don Fadrique,Murcia,Stuyven
+2015,9,2015 70th Vuelta a España (2.UWT),30 August 2015,Torrevieja,Cumbre del Sol. Benitachell,Dumoulin
+2015,10,2015 70th Vuelta a España (2.UWT),31 August 2015,Valencia,Castellón,Sbaragli
+2015,11,2015 70th Vuelta a España (2.UWT),02 September 2015,Andorra la Vella,Cortals d'Encamp,Landa
+2015,12,2015 70th Vuelta a España (2.UWT),03 September 2015,Escaldes-Engordany,Lleida,van Poppel
+2015,13,2015 70th Vuelta a España (2.UWT),04 September 2015,Calatayud,Tarazona,Oliveira
+2015,14,2015 70th Vuelta a España (2.UWT),05 September 2015,Vitoria,Alto Campoo. Fuente del Chivo,De Marchi
+2015,15,2015 70th Vuelta a España (2.UWT),06 September 2015,Comillas,Sotres. Cabrales,Rodríguez
+2015,16,2015 70th Vuelta a España (2.UWT),07 September 2015,Luarca,Ermita de Alba. Quiros,Schleck
+2015,17,2015 70th Vuelta a España (2.UWT),09 September 2015,Burgos,Burgos,Dumoulin
+2015,18,2015 70th Vuelta a España (2.UWT),10 September 2015,Roa,Riaza,Roche
+2015,19,2015 70th Vuelta a España (2.UWT),11 September 2015,Medina del Campo,Ávila,Gougeard
+2015,20,2015 70th Vuelta a España (2.UWT),12 September 2015,San Lorenzo de El Escorial,Cercedilla,Plaza
+2015,21,2015 70th Vuelta a España (2.UWT),13 September 2015,Alcalá de Henares,Madrid,Degenkolb
+2016,1,2016 71st Vuelta a España (2.UWT),20 August 2016,Balneario Laias,Parque Náutico de Castrelo de Miño,Kwiatkowski
+2016,2,2016 71st Vuelta a España (2.UWT),21 August 2016,Ourense,Baiona,Meersman
+2016,3,2016 71st Vuelta a España (2.UWT),22 August 2016,Marín,Dumbría. Mirador de Ézaro,Geniez
+2016,4,2016 71st Vuelta a España (2.UWT),23 August 2016,Betanzos,San Andrés de Teixido (Mirador Vixía de Herbeira),Calmejane
+2016,5,2016 71st Vuelta a España (2.UWT),24 August 2016,Viveiro,Lugo,Meersman
+2016,6,2016 71st Vuelta a España (2.UWT),25 August 2016,Monforte de Lemos,Luintra. Ribera Sacra,Yates
+2016,7,2016 71st Vuelta a España (2.UWT),26 August 2016,Maceda,Puebla de Sanabria,van Genechten
+2016,8,2016 71st Vuelta a España (2.UWT),27 August 2016,Villalpando,La Camperona. Valle de Sabero,Lagutin
+2016,9,2016 71st Vuelta a España (2.UWT),28 August 2016,Cistierna,Oviedo. Alto del Naranco,de la Cruz
+2016,10,2016 71st Vuelta a España (2.UWT),29 August 2016,Lugones,Lagos de Covadonga,Quintana
+2016,11,2016 71st Vuelta a España (2.UWT),31 August 2016,Colunga. Museo Jurásico,Peña Cabarga,Froome
+2016,12,2016 71st Vuelta a España (2.UWT),01 September 2016,Los Corrales de Buelna,Bilbao,Keukeleire
+2016,13,2016 71st Vuelta a España (2.UWT),02 September 2016,Bilbao,Urdax-Dantxarinea,Conti
+2016,14,2016 71st Vuelta a España (2.UWT),03 September 2016,Urdax-Dantxarinea,Aubisque,Gesink
+2016,15,2016 71st Vuelta a España (2.UWT),04 September 2016,Sabiñánigo,Sallent de Gállego. Aramón Formigal,Brambilla
+2016,16,2016 71st Vuelta a España (2.UWT),05 September 2016,Alcañiz,Peñíscola,Drucker
+2016,17,2016 71st Vuelta a España (2.UWT),07 September 2016,Castellón,Llucena. Camins del Penygolosa,Frank
+2016,18,2016 71st Vuelta a España (2.UWT),08 September 2016,Requena,Gandía,Cort
+2016,19,2016 71st Vuelta a España (2.UWT),09 September 2016,Xàbia,Calp,Froome
+2016,20,2016 71st Vuelta a España (2.UWT),10 September 2016,Benidorm,Alto de Aitana. Escuadrón Ejército del Aire,Latour
+2016,21,2016 71st Vuelta a España (2.UWT),11 September 2016,Las Rozas,Madrid,Cort
+2017,1,2017 72nd Vuelta a España (2.UWT),19 August 2017,Nîmes,Nîmes,De Marchi
+2017,2,2017 72nd Vuelta a España (2.UWT),20 August 2017,Nimes,Gruissan,Lampaert
+2017,3,2017 72nd Vuelta a España (2.UWT),21 August 2017,Prades Conflent Canigó,Andorra la Vella,Nibali
+2017,4,2017 72nd Vuelta a España (2.UWT),22 August 2017,Escaldes-Engordany,Tarragona,Trentin
+2017,5,2017 72nd Vuelta a España (2.UWT),23 August 2017,Benicàssim,Alcossebre,Lutsenko
+2017,6,2017 72nd Vuelta a España (2.UWT),24 August 2017,Vila-Real,Sagunt,Marczyński
+2017,7,2017 72nd Vuelta a España (2.UWT),25 August 2017,Llíria,Cuenca,Mohorič
+2017,8,2017 72nd Vuelta a España (2.UWT),26 August 2017,Hellín,Xorret de Catí,Alaphilippe
+2017,9,2017 72nd Vuelta a España (2.UWT),27 August 2017,Orihuela,Cumbre del Sol (Alto de Puig Llorença),Froome
+2017,10,2017 72nd Vuelta a España (2.UWT),29 August 2017,Caravaca Jubilar,ElPozo Alimentación (Alhama de Murcia),Trentin
+2017,11,2017 72nd Vuelta a España (2.UWT),30 August 2017,Lorca,Observatorio Astronómico de Calar Alto,López
+2017,12,2017 72nd Vuelta a España (2.UWT),31 August 2017,Motril,Antequera Los Dólmenes,Marczyński
+2017,13,2017 72nd Vuelta a España (2.UWT),01 September 2017,Coín,Tomares,Trentin
+2017,14,2017 72nd Vuelta a España (2.UWT),02 September 2017,Écija,Sierra de La Pandera,Majka
+2017,15,2017 72nd Vuelta a España (2.UWT),03 September 2017,Alcalá la Real,Sierra Nevada. Alto Hoya de la Mora,López
+2017,16,2017 72nd Vuelta a España (2.UWT),05 September 2017,Circuito de Navarra,Logroño,Froome
+2017,17,2017 72nd Vuelta a España (2.UWT),06 September 2017,Villadiego,Los Machucos. Monumento Vaca Pasiega,Denifl
+2017,18,2017 72nd Vuelta a España (2.UWT),07 September 2017,Suances,Santo Toribio de Liébana,Armée
+2017,19,2017 72nd Vuelta a España (2.UWT),08 September 2017,Caso. Parque Natural de Redes,Gijón,De Gendt
+2017,20,2017 72nd Vuelta a España (2.UWT),09 September 2017,Corvera de Asturias,Alto de l'Angliru,Contador
+2017,21,2017 72nd Vuelta a España (2.UWT),10 September 2017,Arroyomolinos,Madrid,Trentin
+2018,1,2018 73rd La Vuelta ciclista a España (2.UWT),25 August 2018,Málaga,Málaga,Dennis
+2018,2,2018 73rd La Vuelta ciclista a España (2.UWT),26 August 2018,Marbella,Caminito del Rey,Valverde
+2018,3,2018 73rd La Vuelta ciclista a España (2.UWT),27 August 2018,Mijas,Alhaurín de la Torre,Viviani
+2018,4,2018 73rd La Vuelta ciclista a España (2.UWT),28 August 2018,Vélez-Málaga,Alfacar. Sierra de la Alfaguara,King
+2018,5,2018 73rd La Vuelta ciclista a España (2.UWT),29 August 2018,Granada,Roquetas de Mar,Clarke
+2018,6,2018 73rd La Vuelta ciclista a España (2.UWT),30 August 2018,Huércal-Overa,San Javier. Mar Menor,Bouhanni
+2018,7,2018 73rd La Vuelta ciclista a España (2.UWT),31 August 2018,Puerto Lumbreras,Pozo Alcón,Gallopin
+2018,8,2018 73rd La Vuelta ciclista a España (2.UWT),01 September 2018,Linares,Almadén,Valverde
+2018,9,2018 73rd La Vuelta ciclista a España (2.UWT),02 September 2018,Talavera de la Reina,La Covatilla,King
+2018,10,2018 73rd La Vuelta ciclista a España (2.UWT),04 September 2018,Salamanca. VIII Centenario Universidad de Salamanc,Fermoselle. Bermillo de Sayago,Viviani
+2018,11,2018 73rd La Vuelta ciclista a España (2.UWT),05 September 2018,Mombuey,Ribeira Sacra. Luintra,De Marchi
+2018,12,2018 73rd La Vuelta ciclista a España (2.UWT),06 September 2018,Mondoñedo,Faro de Estaca de Bares. Mañón,Geniez
+2018,13,2018 73rd La Vuelta ciclista a España (2.UWT),07 September 2018,Candás. Carreño,Valle de Sabero. La Camperona,Rodríguez
+2018,14,2018 73rd La Vuelta ciclista a España (2.UWT),08 September 2018,Cistierna,Les Praeres. Nava,Yates
+2018,15,2018 73rd La Vuelta ciclista a España (2.UWT),09 September 2018,Ribera de Arriba,Lagos de Covadonga,Pinot
+2018,16,2018 73rd La Vuelta ciclista a España (2.UWT),11 September 2018,Santillana del Mar,Torrelavega,Dennis
+2018,17,2018 73rd La Vuelta ciclista a España (2.UWT),12 September 2018,Getxo,Balcón de Bizkaia,Woods
+2018,18,2018 73rd La Vuelta ciclista a España (2.UWT),13 September 2018,Ejea de los Caballeros,Lleida,Wallays
+2018,19,2018 73rd La Vuelta ciclista a España (2.UWT),14 September 2018,Lleida,Andorra. Naturlandia,Pinot
+2018,20,2018 73rd La Vuelta ciclista a España (2.UWT),15 September 2018,Andorra. Escaldes-Engordany,Andorra. Collada de la Gallina,Mas
+2018,21,2018 73rd La Vuelta ciclista a España (2.UWT),16 September 2018,Alcorcón,Madrid,Viviani
+2019,1,2019 74th La Vuelta ciclista a España (2.UWT),24 August 2019,Salinas de Torrevieja,Torrevieja,Cataldo
+2019,2,2019 74th La Vuelta ciclista a España (2.UWT),25 August 2019,Benidorm,Calpe,Quintana
+2019,3,2019 74th La Vuelta ciclista a España (2.UWT),26 August 2019,Ibi. Ciudad del Juguete,Alicante,Bennett
+2019,4,2019 74th La Vuelta ciclista a España (2.UWT),27 August 2019,Cullera,El Puig,Jakobsen
+2019,5,2019 74th La Vuelta ciclista a España (2.UWT),28 August 2019,L’Eliana,Observatorio Astrofísico de Javalambre,Madrazo
+2019,6,2019 74th La Vuelta ciclista a España (2.UWT),29 August 2019,Mora de Rubielos,Ares del Maestrat,Herrada
+2019,7,2019 74th La Vuelta ciclista a España (2.UWT),30 August 2019,Onda,Mas de la Costa,Valverde
+2019,8,2019 74th La Vuelta ciclista a España (2.UWT),31 August 2019,Valls,Igualada,Arndt
+2019,9,2019 74th La Vuelta ciclista a España (2.UWT),01 September 2019,Andorra la Vella,Cortals d’Encamp,Pogačar
+2019,10,2019 74th La Vuelta ciclista a España (2.UWT),03 September 2019,Jurançon,Pau,Roglič
+2019,11,2019 74th La Vuelta ciclista a España (2.UWT),04 September 2019,Saint-Palais,Urdax-Dantxarinea,Iturria
+2019,12,2019 74th La Vuelta ciclista a España (2.UWT),05 September 2019,Circuito de Navarra,Bilbao,Gilbert
+2019,13,2019 74th La Vuelta ciclista a España (2.UWT),06 September 2019,Bilbao,Los Machucos. Monumento Vaca Pasiega,Pogačar
+2019,14,2019 74th La Vuelta ciclista a España (2.UWT),07 September 2019,San Vicente de la Barquer,Oviedo,Bennett
+2019,15,2019 74th La Vuelta ciclista a España (2.UWT),08 September 2019,Tineo,Santuario del Acebo,Kuss
+2019,16,2019 74th La Vuelta ciclista a España (2.UWT),09 September 2019,Pravia,Alto de La Cubilla. Lena,Fuglsang
+2019,17,2019 74th La Vuelta ciclista a España (2.UWT),11 September 2019,Aranda de Duero,Guadalajara,Gilbert
+2019,18,2019 74th La Vuelta ciclista a España (2.UWT),12 September 2019,Colmenar Viejo,Becerril de la Sierra,Higuita
+2019,19,2019 74th La Vuelta ciclista a España (2.UWT),13 September 2019,Ávila,Toledo,Cavagna
+2019,20,2019 74th La Vuelta ciclista a España (2.UWT),14 September 2019,Arenas de San Pedro,Plataforma de Gredos,Pogačar
+2019,21,2019 74th La Vuelta ciclista a España (2.UWT),15 September 2019,Fuenlabrada,Madrid,Jakobsen
+2020,1,2020 75th La Vuelta ciclista a España (2.UWT),20 October 2020,Irún,Arrate,Roglič
+2020,2,2020 75th La Vuelta ciclista a España (2.UWT),21 October 2020,Pamplona,Lekunberri,Soler
+2020,3,2020 75th La Vuelta ciclista a España (2.UWT),22 October 2020,Lodosa,La Laguna Negra de Vinuesa,Martin
+2020,4,2020 75th La Vuelta ciclista a España (2.UWT),23 October 2020,Garray,Ejea de los Caballeros,Bennett
+2020,5,2020 75th La Vuelta ciclista a España (2.UWT),24 October 2020,Huesca,Sabiñanigo,Wellens
+2020,6,2020 75th La Vuelta ciclista a España (2.UWT),25 October 2020,Biescas,Aramón Formigal,Izagirre
+2020,7,2020 75th La Vuelta ciclista a España (2.UWT),27 October 2020,Vitoria-Gasteiz,Villanueva de Valdegovia,Woods
+2020,8,2020 75th La Vuelta ciclista a España (2.UWT),28 October 2020,Logroño,Alto de Moncalvillo,Roglič
+2020,9,2020 75th La Vuelta ciclista a España (2.UWT),29 October 2020,Castrillo del Val,Aguilar de Campoo,Ackermann
+2020,10,2020 75th La Vuelta ciclista a España (2.UWT),30 October 2020,Castro Urdiales,Suances,Roglič
+2020,11,2020 75th La Vuelta ciclista a España (2.UWT),31 October 2020,Villaviciosa,Alto de la Farrapona,Gaudu
+2020,12,2020 75th La Vuelta ciclista a España (2.UWT),01 November 2020,Pola de Laviana,Alto de l'Angliru,Carthy
+2020,13,2020 75th La Vuelta ciclista a España (2.UWT),03 November 2020,Muros,Mirador de Ézaro,Roglič
+2020,14,2020 75th La Vuelta ciclista a España (2.UWT),04 November 2020,Lugo,Ourense,Wellens
+2020,15,2020 75th La Vuelta ciclista a España (2.UWT),05 November 2020,Mos,Puebla de Sanabria,Philipsen
+2020,16,2020 75th La Vuelta ciclista a España (2.UWT),06 November 2020,Salamanca,Ciudad Rodrigo,Cort
+2020,17,2020 75th La Vuelta ciclista a España (2.UWT),07 November 2020,Sequeros,Alto de la Covatilla,Gaudu
+2020,18,2020 75th La Vuelta ciclista a España (2.UWT),08 November 2020,Hipódromo de la Zarzuela,Madrid,Ackermann
+2021,1,2021 76th La Vuelta ciclista a España (2.UWT),14 August 2021,Burgos,Burgos,Roglič
+2021,2,2021 76th La Vuelta ciclista a España (2.UWT),15 August 2021,Caleruega,Burgos,Philipsen
+2021,3,2021 76th La Vuelta ciclista a España (2.UWT),16 August 2021,Santo Domingo de Silos,Picón Blanco,Taaramäe
+2021,4,2021 76th La Vuelta ciclista a España (2.UWT),17 August 2021,El Burgo de Osma,Molina de Aragón,Jakobsen
+2021,5,2021 76th La Vuelta ciclista a España (2.UWT),18 August 2021,Tarancón,Albacete,Philipsen
+2021,6,2021 76th La Vuelta ciclista a España (2.UWT),19 August 2021,Requena,Alto de la Montaña de Cullera,Cort
+2021,7,2021 76th La Vuelta ciclista a España (2.UWT),20 August 2021,Gandía,Balcón de Alicante,Storer
+2021,8,2021 76th La Vuelta ciclista a España (2.UWT),21 August 2021,Santa Pola,La Manga del Mar Menor,Jakobsen
+2021,9,2021 76th La Vuelta ciclista a España (2.UWT),22 August 2021,Puerto-Lumbreras,Alto de Velefique,Caruso
+2021,10,2021 76th La Vuelta ciclista a España (2.UWT),24 August 2021,Roquetas de Mar,Rincón de la Victoria,Storer
+2021,11,2021 76th La Vuelta ciclista a España (2.UWT),25 August 2021,Antequera,Valdepeñas de Jaén,Roglič
+2021,12,2021 76th La Vuelta ciclista a España (2.UWT),26 August 2021,Jaén,Córdoba,Cort
+2021,13,2021 76th La Vuelta ciclista a España (2.UWT),27 August 2021,Belmez,Villanueva de la Serena,Sénéchal
+2021,14,2021 76th La Vuelta ciclista a España (2.UWT),28 August 2021,Don Benito,Pico Villuercas,Bardet
+2021,15,2021 76th La Vuelta ciclista a España (2.UWT),29 August 2021,Navalmoral de la Mata,El Barraco,Majka
+2021,16,2021 76th La Vuelta ciclista a España (2.UWT),31 August 2021,Laredo,Santa Cruz de Bezana,Jakobsen
+2021,17,2021 76th La Vuelta ciclista a España (2.UWT),01 September 2021,Unquera,Lagos de Covadonga,Roglič
+2021,18,2021 76th La Vuelta ciclista a España (2.UWT),02 September 2021,Salas,Altu d'El Gamoniteiru,López
+2021,19,2021 76th La Vuelta ciclista a España (2.UWT),03 September 2021,Tapia,Monforte de Lemos,Cort
+2021,20,2021 76th La Vuelta ciclista a España (2.UWT),04 September 2021,Sanxenxo,Mos. Castro de Herville,Champoussin
+2021,21,2021 76th La Vuelta ciclista a España (2.UWT),05 September 2021,Padrón,Santiago de Compostela,Roglič
+2022,1,2022 77th La Vuelta ciclista a España (2.UWT),19 August 2022,Utrecht,Utrecht,Roglič
+2022,2,2022 77th La Vuelta ciclista a España (2.UWT),20 August 2022,'s-Hertogenbosch,Utrecht,Bennett
+2022,3,2022 77th La Vuelta ciclista a España (2.UWT),21 August 2022,Breda,Breda,Bennett
+2022,4,2022 77th La Vuelta ciclista a España (2.UWT),23 August 2022,Vitoria-Gasteiz,Laguardia,Roglič
+2022,5,2022 77th La Vuelta ciclista a España (2.UWT),24 August 2022,Irún,Bilbao,Soler
+2022,6,2022 77th La Vuelta ciclista a España (2.UWT),25 August 2022,Bilbao,Ascensión al Pico Jano. San Miguel de Aguayo,Vine
+2022,7,2022 77th La Vuelta ciclista a España (2.UWT),26 August 2022,Camargo,Cistierna,Herrada
+2022,8,2022 77th La Vuelta ciclista a España (2.UWT),27 August 2022,La Pola Llaviana/Pola de Laviana,Colláu Fancuaya,Vine
+2022,9,2022 77th La Vuelta ciclista a España (2.UWT),28 August 2022,Villaviciosa,Les Praeres. Nava,Meintjes
+2022,10,2022 77th La Vuelta ciclista a España (2.UWT),30 August 2022,Elche,Alicante,Evenepoel
+2022,11,2022 77th La Vuelta ciclista a España (2.UWT),31 August 2022,ElPozo Alimentación,Cabo de Gata,Groves
+2022,12,2022 77th La Vuelta ciclista a España (2.UWT),01 September 2022,Salobreña,Peñas Blancas. Estepona,Carapaz
+2022,13,2022 77th La Vuelta ciclista a España (2.UWT),02 September 2022,Ronda,Montilla,Pedersen
+2022,14,2022 77th La Vuelta ciclista a España (2.UWT),03 September 2022,Montoro,Sierra de La Pandera,Carapaz
+2022,15,2022 77th La Vuelta ciclista a España (2.UWT),04 September 2022,Martos,Sierra Nevada,Arensman
+2022,16,2022 77th La Vuelta ciclista a España (2.UWT),06 September 2022,Sanlúcar de Barrameda,Tomares,Pedersen
+2022,17,2022 77th La Vuelta ciclista a España (2.UWT),07 September 2022,Aracena,Monasterio de Tentudía,Urán
+2022,18,2022 77th La Vuelta ciclista a España (2.UWT),08 September 2022,Trujillo,Alto del Piornal,Evenepoel
+2022,19,2022 77th La Vuelta ciclista a España (2.UWT),09 September 2022,Talavera de la Reina,Talavera de la Reina,Pedersen
+2022,20,2022 77th La Vuelta ciclista a España (2.UWT),10 September 2022,Moralzarzal,Puerto de Navacerrada,Carapaz
+2022,21,2022 77th La Vuelta ciclista a España (2.UWT),11 September 2022,Las Rozas,Madrid,Molano
+2023,1,2023 78th La Vuelta Ciclista a España (2.UWT),26 August 2023,Barcelona,Barcelona,Milesi
+2023,2,2023 78th La Vuelta Ciclista a España (2.UWT),27 August 2023,Mataró,Barcelona,Kron
+2023,3,2023 78th La Vuelta Ciclista a España (2.UWT),28 August 2023,Súria,Arinsal,Evenepoel
+2023,4,2023 78th La Vuelta Ciclista a España (2.UWT),29 August 2023,Andorra la Vella,Tarragona,Groves
+2023,5,2023 78th La Vuelta Ciclista a España (2.UWT),30 August 2023,Morella,Burriana,Groves
+2023,6,2023 78th La Vuelta Ciclista a España (2.UWT),31 August 2023,La Vall d'Uixó,Observatorio Astrofísico de Javalambre,Kuss
+2023,7,2023 78th La Vuelta Ciclista a España (2.UWT),01 September 2023,Utiel,Oliva,Soupe
+2023,8,2023 78th La Vuelta Ciclista a España (2.UWT),02 September 2023,Dénia,Xorret de Catí. Costa Blanca Interior,Roglič
+2023,9,2023 78th La Vuelta Ciclista a España (2.UWT),03 September 2023,Cartagena,Collado de la Cruz de Caravaca,Kämna
+2023,10,2023 78th La Vuelta Ciclista a España (2.UWT),05 September 2023,Valladolid,Valladolid,Ganna
+2023,11,2023 78th La Vuelta Ciclista a España (2.UWT),06 September 2023,Lerma,La Laguna Negra.Vinuesa,Herrada
+2023,12,2023 78th La Vuelta Ciclista a España (2.UWT),07 September 2023,Ólvega,Zaragoza,Molano
+2023,13,2023 78th La Vuelta Ciclista a España (2.UWT),08 September 2023,Formigal. Huesca la Magia,Col du Tourmalet,Vingegaard
+2023,14,2023 78th La Vuelta Ciclista a España (2.UWT),09 September 2023,Sauveterre-de-Béarn,Larra-Belagua,Evenepoel
+2023,15,2023 78th La Vuelta Ciclista a España (2.UWT),10 September 2023,Pamplona,Lekunberri,Costa
+2023,16,2023 78th La Vuelta Ciclista a España (2.UWT),12 September 2023,Liencres Playa,Bejes,Vingegaard
+2023,17,2023 78th La Vuelta Ciclista a España (2.UWT),13 September 2023,Ribadesella/Ribeseya,Altu de L'Angliru,Roglič
+2023,18,2023 78th La Vuelta Ciclista a España (2.UWT),14 September 2023,Pola de Allande,La Cruz de Linares,Evenepoel
+2023,19,2023 78th La Vuelta Ciclista a España (2.UWT),15 September 2023,La Bañeza,Íscar,Dainese
+2023,20,2023 78th La Vuelta Ciclista a España (2.UWT),16 September 2023,Manzanares El Real,Guadarrama,Poels
+2023,21,2023 78th La Vuelta Ciclista a España (2.UWT),17 September 2023,Hipódromo de la Zarzuela,Madrid. Paisaje de la Luz,Groves
+2024,1,2024 79th La Vuelta Ciclista a España (2.UWT),17 August 2024,Lisbon,Oeiras,McNulty
+2024,2,2024 79th La Vuelta Ciclista a España (2.UWT),18 August 2024,Cascais,Ourém,Groves
+2024,3,2024 79th La Vuelta Ciclista a España (2.UWT),19 August 2024,Lousã,Castelo Branco,van Aert
+2024,4,2024 79th La Vuelta Ciclista a España (2.UWT),20 August 2024,Plasencia,Pico Villuercas,Roglič
+2024,5,2024 79th La Vuelta Ciclista a España (2.UWT),21 August 2024,Fuente del Maestre,Sevilla,Bittner
+2024,6,2024 79th La Vuelta Ciclista a España (2.UWT),22 August 2024,Jerez de la Frontera,Yunquera,O'Connor
+2024,7,2024 79th La Vuelta Ciclista a España (2.UWT),23 August 2024,Archidona,Cordoba,van Aert
+2024,8,2024 79th La Vuelta Ciclista a España (2.UWT),24 August 2024,Úbeda,Cazorla,Roglič
+2024,9,2024 79th La Vuelta Ciclista a España (2.UWT),25 August 2024,Motril,Granada,Yates
+2024,10,2024 79th La Vuelta Ciclista a España (2.UWT),27 August 2024,Ponteareas,Baiona,van Aert
+2024,11,2024 79th La Vuelta Ciclista a España (2.UWT),28 August 2024,Campus Tecnológico Cortizo Padron,Campus Tecnológico Cortizo Padron,Dunbar
+2024,12,2024 79th La Vuelta Ciclista a España (2.UWT),29 August 2024,Ourense Termal,Estacion de Montaña de Manzaneda,Castrillo
+2024,13,2024 79th La Vuelta Ciclista a España (2.UWT),30 August 2024,Lugo,Puerto de Ancares,Woods
+2024,14,2024 79th La Vuelta Ciclista a España (2.UWT),31 August 2024,Villafranca del Bierzo,Villablino,Groves
+2024,15,2024 79th La Vuelta Ciclista a España (2.UWT),01 September 2024,Infiesto,Valgrande-Pajares. Cuitu Negru,Castrillo
+2024,16,2024 79th La Vuelta Ciclista a España (2.UWT),03 September 2024,Luanco,Lagos de Covadonga,Soler
+2024,17,2024 79th La Vuelta Ciclista a España (2.UWT),04 September 2024,Arnuero,Santander,Groves
+2024,18,2024 79th La Vuelta Ciclista a España (2.UWT),05 September 2024,Vitoria-Gasteiz,Maestu-Parque Natural de Izki,Berrade
+2024,19,2024 79th La Vuelta Ciclista a España (2.UWT),06 September 2024,Logroño,Alto de Moncalvillo,Roglič
+2024,20,2024 79th La Vuelta Ciclista a España (2.UWT),07 September 2024,Villarcayo,Picón Blanco,Dunbar
+2024,21,2024 79th La Vuelta Ciclista a España (2.UWT),08 September 2024,Madrid,Madrid,Küng
+2025,1,2025 80th La Vuelta Ciclista a España (2.UWT),23 August 2025,Torino-Reggia di Venaria,Novara,Philipsen
+2025,2,2025 80th La Vuelta Ciclista a España (2.UWT),24 August 2025,Alba,Limone Piemonte,Vingegaard
+2025,3,2025 80th La Vuelta Ciclista a España (2.UWT),25 August 2025,San Maurizio Canavese,Ceres,Gaudu
+2025,4,2025 80th La Vuelta Ciclista a España (2.UWT),26 August 2025,Susa,Voiron,Turner
+2025,5,2025 80th La Vuelta Ciclista a España (2.UWT),27 August 2025,Figueres,Figueres,Almeida
+2025,6,2025 80th La Vuelta Ciclista a España (2.UWT),28 August 2025,Olot,Pal. Andorra,Vine
+2025,7,2025 80th La Vuelta Ciclista a España (2.UWT),29 August 2025,Andorra la Vella,Cerler. Huesca La Magia,Ayuso
+2025,8,2025 80th La Vuelta Ciclista a España (2.UWT),30 August 2025,Monzón Templario,Zaragoza,Philipsen
+2025,9,2025 80th La Vuelta Ciclista a España (2.UWT),31 August 2025,Alfaro,Estación de Esquí de Valdezcaray,Vingegaard
+2025,10,2025 80th La Vuelta Ciclista a España (2.UWT),02 September 2025,Parque de la Naturaleza Sendaviva,El Ferial Larra Belagua,Vine
+2025,11,2025 80th La Vuelta Ciclista a España (2.UWT),03 September 2025,Bilbao,Bilbao,Vingegaard
+2025,12,2025 80th La Vuelta Ciclista a España (2.UWT),04 September 2025,Laredo,Los Corrales de Buelna,Ayuso
+2025,13,2025 80th La Vuelta Ciclista a España (2.UWT),05 September 2025,Cabezón de la Sal,L'Angliru,Almeida
+2025,14,2025 80th La Vuelta Ciclista a España (2.UWT),06 September 2025,Avilés,La Farrapona. Lagos de Somiedo,Soler
+2025,15,2025 80th La Vuelta Ciclista a España (2.UWT),07 September 2025,A Veiga/Vegadeo,Monforte de Lemos,Pedersen
+2025,16,2025 80th La Vuelta Ciclista a España (2.UWT),09 September 2025,Poio,Mos. Castro de Herville,Bernal
+2025,17,2025 80th La Vuelta Ciclista a España (2.UWT),10 September 2025,O Barco de Valdeorras,Alto de El Morredero,Pellizzari
+2025,18,2025 80th La Vuelta Ciclista a España (2.UWT),11 September 2025,Valladolid,Valladolid,Ganna
+2025,19,2025 80th La Vuelta Ciclista a España (2.UWT),12 September 2025,Rueda,Guijuelo,Philipsen
+2025,20,2025 80th La Vuelta Ciclista a España (2.UWT),13 September 2025,Robledo de Chavela,Bola del Mundo. Puerto de Navacerrada,Vingegaard
+2025,21,2025 80th La Vuelta Ciclista a España (2.UWT),14 September 2025,Alalpardo,Madrid,Almeida
